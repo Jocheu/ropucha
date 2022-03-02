@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
 
             result.append("\nrazem: " + suma + "zł")
             Toast.makeText(applicationContext, result.toString(), Toast.LENGTH_SHORT).show()
+            /*aaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
         }
     }
 }
